@@ -57,7 +57,7 @@ social-network-links:
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -134,12 +134,12 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#4C86A8"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#E0777D"
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#8436eb"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
